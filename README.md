@@ -3,6 +3,8 @@
 Mastodon Chirper is a browser extension which integrates the Mastodon social
 network with the twitter.com UI.
 
+This website: https://chirper.picheta.me
+
 Chrome download: https://chrome.google.com/webstore/detail/mastodon-chirper/lgiffpmohlpjlkclpmelkkfmjnlpafne?hl=en-GB&authuser=0
 
 ## About this repo
