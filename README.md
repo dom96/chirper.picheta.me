@@ -7,6 +7,8 @@ This website: https://chirper.picheta.me
 
 Chrome download: https://chrome.google.com/webstore/detail/mastodon-chirper/lgiffpmohlpjlkclpmelkkfmjnlpafne?hl=en-GB&authuser=0
 
+Firefox download: https://addons.mozilla.org/en-GB/firefox/addon/mastodon-chirper/
+
 ## About this repo
 
 This repo holds the Mastodon Chirper website which is hosted on
